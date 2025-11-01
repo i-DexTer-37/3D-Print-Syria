@@ -1,0 +1,5 @@
+{
+  "name": "POS v2",
+  "description": "A web application for managing points of sale (stores), invoices, and low-stock products, with support for Syrian currency and financial reports.",
+  "requestFramePermissions": []
+}
